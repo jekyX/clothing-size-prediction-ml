@@ -41,3 +41,15 @@ Accuracy: XX%
 - Lingkar dada
 - Lingkar pinggang
 - Deployment menggunakan Streamlit/FastAPI
+
+## Model Comparison
+
+![Model Comparison](images/model_comparison.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+## Feature Importance
+
+![Feature Importance](images/feature_importance.png)
