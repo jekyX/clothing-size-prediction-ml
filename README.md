@@ -33,15 +33,6 @@ The objective of this project is to develop a Machine Learning-based clothing si
 ![Results](images/evaluation_model.png)
 
 Random Forest achieved the highest performance with an accuracy of 92%.
-
-## Future Improvements
-
-- Collect real customer data
-- Add gender feature
-- Add chest circumference
-- Add waist circumference
-- Deploy using Streamlit
-- Build REST API using FastAPI
   
 ## Model Comparison
 
@@ -60,3 +51,13 @@ Random Forest achieved the highest performance with an accuracy of 92%.
 Dataset used in this project was obtained from Kaggle and serves as a Proof of Concept (PoC).
 
 Future work includes collecting real customer measurements from fashion businesses to improve model reliability and business relevance.
+
+
+## Future Improvements
+
+- Collect real customer data
+- Add gender feature
+- Add chest circumference
+- Add waist circumference
+- Deploy using Streamlit
+- Build REST API using FastAPI
