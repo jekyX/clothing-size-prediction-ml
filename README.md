@@ -32,7 +32,7 @@ The objective of this project is to develop a Machine Learning-based clothing si
 ## Results
 ![Results](images/evaluation_model.png)
 
-Random Forest achieved the highest performance with an accuracy of 92%.
+Random Forest achieved the highest performance with an accuracy of 52%.
   
 ## Model Comparison
 
