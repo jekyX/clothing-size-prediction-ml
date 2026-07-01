@@ -2,16 +2,17 @@
 
 ## Business Problem
 
-Pelanggan sering kesulitan menentukan ukuran pakaian yang sesuai ketika berbelanja secara online.
+Choosing the correct clothing size is one of the most common challenges faced by customers when shopping online. Inaccurate size selection can lead to increased product returns, higher operational costs, and reduced customer satisfaction.
 
-Kesalahan pemilihan ukuran dapat meningkatkan tingkat retur produk dan menurunkan kepuasan pelanggan.
+For fashion businesses, providing accurate size recommendations can improve the customer experience and support purchasing decisions.
 
-## Objective
+## Project Objective
 
-Mengembangkan sistem rekomendasi ukuran pakaian menggunakan Machine Learning berdasarkan:
-- Usia
-- Tinggi badan
-- Berat badan
+The objective of this project is to develop a Machine Learning-based clothing size recommendation system that predicts the most suitable clothing size based on customer characteristics, including:
+
+- Age
+- Height
+- Weight
 
 ## Models Evaluated
 
@@ -29,19 +30,17 @@ Mengembangkan sistem rekomendasi ukuran pakaian menggunakan Machine Learning ber
 - Cross Validation
 
 ## Results
-
-Model terbaik: Random Forest
-
-Accuracy: XX%
+![Results]
 
 ## Future Improvements
 
-- Pengumpulan data pelanggan nyata
-- Penambahan fitur gender
-- Lingkar dada
-- Lingkar pinggang
-- Deployment menggunakan Streamlit/FastAPI
-
+- Collect real customer data
+- Add gender feature
+- Add chest circumference
+- Add waist circumference
+- Deploy using Streamlit
+- Build REST API using FastAPI
+  
 ## Model Comparison
 
 ![Model Comparison](images/model_comparison.png)
@@ -53,3 +52,9 @@ Accuracy: XX%
 ## Feature Importance
 
 ![Feature Importance](images/feature_importance.png)
+
+## Dataset
+
+Dataset used in this project was obtained from Kaggle and serves as a Proof of Concept (PoC).
+
+Future work includes collecting real customer measurements from fashion businesses to improve model reliability and business relevance.
