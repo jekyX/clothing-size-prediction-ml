@@ -30,7 +30,9 @@ The objective of this project is to develop a Machine Learning-based clothing si
 - Cross Validation
 
 ## Results
-![Results]
+![Results](images/evaluation_model.png)
+
+Random Forest achieved the highest performance with an accuracy of 92%.
 
 ## Future Improvements
 
