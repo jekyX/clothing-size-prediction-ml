@@ -48,7 +48,7 @@ Accuracy: XX%
 
 ## Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrices.png)
 
 ## Feature Importance
 
