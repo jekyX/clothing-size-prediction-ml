@@ -3,6 +3,7 @@
 ## Business Problem
 
 Pelanggan sering kesulitan menentukan ukuran pakaian yang sesuai ketika berbelanja secara online.
+
 Kesalahan pemilihan ukuran dapat meningkatkan tingkat retur produk dan menurunkan kepuasan pelanggan.
 
 ## Objective
@@ -30,6 +31,7 @@ Mengembangkan sistem rekomendasi ukuran pakaian menggunakan Machine Learning ber
 ## Results
 
 Model terbaik: Random Forest
+
 Accuracy: XX%
 
 ## Future Improvements
