@@ -1,4 +1,4 @@
-# Fashion Size Recomendation System
+# Fashion Size Recommendation System
 
 ## Business Problem
 
